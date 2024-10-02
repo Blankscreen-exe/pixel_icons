@@ -2,7 +2,7 @@
 
 Free for all pixel icons, by yours truly. Use them however yuou like or may suggest some ideas for me to work on. Or better yet, you can contribute your own to the repo.
 
-In case you are interested, I used Aesprite to create these.
+In case you are interested, I used Aesprite to create these. All of the icons here are 16x16 aspect ratio.
 
 ## How To Request For New Icons
 
